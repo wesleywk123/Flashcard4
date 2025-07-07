@@ -1,18 +1,18 @@
 criaCartao(
     Geografia,
-    Qual a capital de Amapá,
-    Macapá
+    Qual a capital da França,
+    Paris
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    Matemática,
+    13^2,
+    169
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    Carros,
+    Diferença entre V12 e 12V,
+    V12 corresponde ao formato do e quantidade cilindros do motor, já 12v, revela a quantidade de válvulas no motor "12 válvulas".
 )
 
