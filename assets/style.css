@@ -5,9 +5,10 @@
 }
 
 body {
-    background: url(img/_.jpeg);
+    background: url('img/fundo.jpeg');
     font-family: Bai Jamjuree;
 }
+
 
 #container {   flex-wrap: wrap;
      justify-content: space-between;
